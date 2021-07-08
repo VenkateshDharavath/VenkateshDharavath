@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VenkateshDharavath
-- 👀 I’m interested in Node, Microservices, Asp.NET Core, Django and I do Full stack with MERN
-- 🌱 I’m currently learning different Software Architecture, Design Patterns in Node, and Data Modelling in MongoDB
-- 💞️ I’m looking to collaborate on any Node and Microservices related projects
+- 👀 I work on NodeJs, Microservices, Asp.NET Core, Django, React and I do Full stack with MERN
+- 🌱 I’m currently learning different Software Architectures, Design Patterns in Node, and Data Modelling
+- 💞️ I’m looking to collaborate on any NodeJs and Microservices related open source projects
 - 📫 Reach me using my email VenkateshDharavath003@gmail.com
 
 <!---
